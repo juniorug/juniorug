@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=juniorug.juniorug)
 [![Years Badge](https://badges.pufler.dev/years/juniorug)](https://badges.pufler.dev)
-[![Github](https://img.shields.io/github/followers/juniorug?label=Follow&style=social)](https://github.com/juniorug)
+[![Github](https://img.shields.io/github/followers/juniorug?label=Followers&style=social)](https://github.com/juniorug)
+[![Github](https://img.shields.io/github/stars/juniorug?label=Stars&style=social)](https://github.com/juniorug)
 
 I have been working as a software engineer developing and maintaining web and telecom applications since 2013 and studying computing since 2006.
 
