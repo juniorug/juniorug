@@ -32,7 +32,7 @@ If you see anything you like send me a message on my  <a href="https://www.linke
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorug&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
 <a href="https://github.com/juniorug/juniorug">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorug&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="juniorug9's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorug&theme=tokyonight&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs" alt="juniorug9's GitHub Stats" />
 </a>
 
 <br>
