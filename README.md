@@ -29,16 +29,16 @@ I have been working as a software engineer developing and maintaining web and te
 
 If you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/edivaldo-mascarenhas-045a9479/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
+<!---
 ### Connect with me:
 
 [<img align="left" alt="juniormascarenhas.com" width="22px" src="https://img.icons8.com/cotton/2x/domain.png" />][website]
-<!---
 [<img align="left" alt="juniorug | Twitter" width="22px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
 [<img align="left" alt="juniorug | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
--->
+
 [<img align="left" alt="juniorug | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
 
-
+-->
 
 -----
 <!-- &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a -->
