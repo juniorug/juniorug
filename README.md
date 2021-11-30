@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=juniorug.juniorug)
-[![Years Badge](https://badges.pufler.dev/years/juniorug)](https://badges.pufler.dev)
-[![Github](https://img.shields.io/github/followers/juniorug?label=Followers&style=social)](https://github.com/juniorug)
-[![Github](https://img.shields.io/github/stars/juniorug?label=Stars&style=social)](https://github.com/juniorug)
-
 I have been working as a software engineer developing and maintaining web and telecom applications since 2013 and studying computing since 2006.
 
 🚀 Always learning<br>
@@ -81,6 +76,11 @@ Tools and technologies
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=juniorug.juniorug)
+[![Years Badge](https://badges.pufler.dev/years/juniorug)](https://badges.pufler.dev)
+[![Github](https://img.shields.io/github/followers/juniorug?label=Followers&style=social)](https://github.com/juniorug)
+[![Github](https://img.shields.io/github/stars/juniorug?label=Stars&style=social)](https://github.com/juniorug)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juniorug&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
