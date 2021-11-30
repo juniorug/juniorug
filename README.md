@@ -28,8 +28,9 @@ I have been working as a software engineer developing and maintaining web and te
 👩🏾‍💻 Developer, Geek and Passionate about Technology<br>
 💻 Ask me about my <strong>projects</strong><br>
 
-If you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/edivaldo-mascarenhas-045a9479/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+If you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/edivaldo-mascarenhas-045a9479/" target="_blank"><img align="center" alt="Junior-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
 
+<br>
 <!---
 ### Connect with me:
 
