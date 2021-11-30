@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=juniorug.juniorug)
 [![Years Badge](https://badges.pufler.dev/years/juniorug)](https://badges.pufler.dev)
+[![Github](https://img.shields.io/github/followers/juniorug?label=Follow&style=social)](https://github.com/juniorug)
 
 I have been working as a software engineer developing and maintaining web and telecom applications since 2013 and studying computing since 2006.
 
@@ -41,18 +42,17 @@ If you see anything you like send me a message on my  <a href="https://www.linke
 -->
 
 -----
-<!-- &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a -->
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/juniorug/juniorug">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorug&bg_color=00000000&langs_count=10&layout=compact" />
+<!---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorug&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/juniorug/juniorug)
+-->
+<a href="https://github.com/juniorug/juniorug" style="margin-right: 10px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorug&theme=tokyonight&langs_count=10&layout=compact" />
 </a>
 <a href="https://github.com/juniorug/juniorug">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorug&theme=tokyonight&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs" alt="juniorug9's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
-
-<br>
-
-
 
 
 Tools and technologies
@@ -78,6 +78,11 @@ Tools and technologies
 ![](https://img.shields.io/badge/Code-angularjs-informational?style=flat&logo=angularjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juniorug&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 <!--
 [![Stargazers repo roster for @marianadkobayashi/marianadkobayashi](https://reporoster.com/stars/marianadkobayashi/marianadkobayashi)](https://github.com/marianadkobayashi/marianadkobayashi/stargazers)
