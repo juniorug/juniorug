@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=juniorug.juniorug)
+[![Years Badge](https://badges.pufler.dev/years/juniorug)](https://badges.pufler.dev)
+
 I have been working as a software engineer developing and maintaining web and telecom applications since 2013 and studying computing since 2006.
 
 🚀 Always learning<br>
@@ -25,11 +29,22 @@ I have been working as a software engineer developing and maintaining web and te
 
 If you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/edivaldo-mascarenhas-045a9479/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
------
+### Connect with me:
 
+[<img align="left" alt="juniormascarenhas.com" width="22px" src="https://img.icons8.com/cotton/2x/domain.png" />][website]
+<!---
+[<img align="left" alt="preveenraj | Twitter" width="22px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
+[<img align="left" alt="preveenraj | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
+-->
+[<img align="left" alt="edivaldo-mascarenhas-045a9479 | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
+
+
+
+-----
+<!-- &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a -->
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/juniorug/juniorug">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorug&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorug&bg_color=00000000&langs_count=10&layout=compact" />
 </a>
 <a href="https://github.com/juniorug/juniorug">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorug&theme=tokyonight&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs" alt="juniorug9's GitHub Stats" />
