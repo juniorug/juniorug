@@ -33,10 +33,10 @@ If you see anything you like send me a message on my  <a href="https://www.linke
 
 [<img align="left" alt="juniormascarenhas.com" width="22px" src="https://img.icons8.com/cotton/2x/domain.png" />][website]
 <!---
-[<img align="left" alt="preveenraj | Twitter" width="22px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
-[<img align="left" alt="preveenraj | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
+[<img align="left" alt="juniorug | Twitter" width="22px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
+[<img align="left" alt="juniorug | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
 -->
-[<img align="left" alt="edivaldo-mascarenhas-045a9479 | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="juniorug | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
 
 
 
@@ -81,3 +81,8 @@ Tools and technologies
 
 <!--
 [![Stargazers repo roster for @marianadkobayashi/marianadkobayashi](https://reporoster.com/stars/marianadkobayashi/marianadkobayashi)](https://github.com/marianadkobayashi/marianadkobayashi/stargazers)
+
+[website]: https://juniormascarenhas.com
+[twitter]: https://twitter.com/junioremf
+[instagram]: https://instagram.com/preveen.raj
+[linkedin]: https://linkedin.com/in/edivaldo-mascarenhas-045a9479
